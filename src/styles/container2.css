@@ -1,0 +1,324 @@
+.BG2 {
+    width: 100%;
+    height: 734px;
+    position: absolute;
+    top: 787.5px;
+    left: 0px;
+    background-color: #413e65;
+}
+.BG3 {
+    width: 350px;
+    height: 139px;
+    position: absolute;
+    top: 925.4px;
+    left: 250px;
+    border-radius: 9px;
+    background-color: white;
+}
+.BG4 {
+    width: 350px;
+    height: 139px;
+    position: absolute;
+    top: 1086.4px;
+    left: 250px;
+    border-radius: 9px;
+    background-color: white;
+}
+.BG5 {
+    width: 350px;
+    height: 139px;
+    position: absolute;
+    top: 1247.4px;
+    left: 250px;
+    border-radius: 9px;
+    background-color:white;
+}
+.Oval-cont1 {
+    width: 62px;
+    height: 62px;
+    position: absolute;
+    top:950.4px;
+    left:276px;
+    border-radius: 40px;
+    background-color: rgba(240, 64, 55, 0.1);
+}
+.layout-11-red {
+    width: 22px;
+    height: 26px;
+    position: absolute;
+    top:968.7px;
+    left:296px;
+    object-fit: contain;
+}
+.Oval-cont2 {
+    width: 62px;
+    height: 62px;
+    position: absolute;
+    top:1109.4px;
+    left:276px;
+    border-radius: 40px;;
+    background-color: rgba(84, 84, 212, 0.1);
+}
+.sidebar-cont2 {
+    position: absolute;
+    top:1128.4px;
+    left:292px;
+    object-fit: contain;
+}
+.Oval-cont3 {
+    width: 62px;
+    height: 62px;
+    position: absolute;
+    top:1272.4px;
+    left:276px;
+    border-radius: 40px;
+    background-color: rgba(65, 62, 101, 0.1);
+}
+.chat-container2 {
+    width: 27px;
+    height: 26px;
+    position: absolute;
+    top:1291.4px;
+    left:292px;
+    object-fit: contain;
+}
+.With-lots-of-unique-li {
+    width: 221px;
+    height: 50px;
+    position: absolute;
+    top:987.4px;
+    left:362px;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+}
+.With-lots-of-unique-liq {
+    width: 221px;
+    height: 50px;
+    position: absolute;
+    top:1148.4px;
+    left:362px;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+}
+.With-lots-of-unique-lix {
+    width: 221px;
+    height: 50px;
+    position: absolute;
+    top:1309.4px;
+    left:362px;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+}
+.Great-support {
+    width: 179px;
+    height: 28px;
+    position: absolute;
+    top:1274.4px;
+    left:362px;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 17.9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #19191b;
+}
+.Fully-Responsive-li {
+    width: 179px;
+    height: 28px;
+    position: absolute;
+    top:1114.4px;
+    left:362px;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 17.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #19191b;
+}
+.Multiple-Layouts-was {
+    width: 179px;
+    height: 28px;
+    top:952.4px;
+    left:362px;
+    position: absolute;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 17.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #19191b;
+}
+.bg-red {
+    width: 176px;
+    height: 54px;
+    position: absolute;
+    top:1271.4px;
+    left:804px;
+    border-radius: 4.5px;
+    border: solid 0.9px #c31a12;
+    background-color: #f04037;
+}
+.Learn-more {
+    width: 176px;
+    height: 24px;
+    top: 1286px;
+    position: absolute;
+    left:810px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18.9px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color:white;
+}
+.Create-custom-landin-red {
+    width: 462px;
+    height: 105px;
+    position: absolute;
+    top:1129.4px;
+    left:804px;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 15.7px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.Build-a-perfect-land {
+    width: 456px;
+    height: 126px;
+    position: absolute;
+    top:980.4px;
+    white-space: nowrap;
+        text-overflow: clip;
+    left:801px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color:white;
+  }
+
+.bg-untitled img{
+    width: 677.7px;
+    height: 670px;
+    position: absolute;
+    top: 1521px; 
+    right: 0px;
+    object-fit: contain;
+}
+.k-users-are-using {
+    width: 500px;
+    height: 126px;
+    position: absolute;
+    top:1685.9px;
+    left:252.3px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-size: 44px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color: #19191b;
+}
+.Create-custom-landin-container2 {
+    width: 460px;
+    height: 105px;
+    position: absolute;
+    top:1813.9px;
+    left:252.3px;
+    white-space: nowrap;
+        text-overflow: clip;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-overflow: clip;
+    font-size: 16.7px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #696871;
+}
+.Get-started-container2 {
+    width: 181px;
+    height: 54px;
+    position: absolute;
+    top:1950.9px;
+    left:252.3px;
+    border-radius: 4.5px;
+    border: solid 0.9px #c31a12;
+    background-color: #f04037;
+}
+.Get-Started-search {
+    width: 181px;
+    height: 24px;
+    position: absolute;
+    top: 1968px;
+    left:254px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18.9px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: white;
+  }
+.Oval-container2 {
+    width: 171px;
+    height: 171px;
+    position: absolute;
+    top:1935.9px;
+    left:712.3px;
+    object-fit: contain;
+}
