@@ -1,0 +1,213 @@
+.Omega {
+  position: absolute;
+  width: 71px;
+  height: 28px;
+  top: 21px;
+  left: 32px;
+  font-size: 21.6px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+}
+.Demos {
+  position: absolute;
+  top: 26.6px;
+  left: 14px;
+  width: 195px;
+  height: 18px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  text-align: right;
+  color: #f04037;
+}
+.Pages-Support {
+  position: absolute;
+  top: 26.6px;
+  left: 185px;
+  width: 195px;
+  height: 18px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  text-align: right;
+  color: #19191b;
+  word-spacing: 30px;
+}
+.Bring-more-leads-for {
+  width: 482px;
+  height: 126px;
+  position: absolute;
+  top:216px;
+  left:250px;
+  white-space: nowrap;
+        text-overflow: clip;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 43px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+.Create-custom-landin {
+  width: 482px;
+  height: 105px;
+  position: absolute;
+  top: 354px;
+  left: 250px;
+  white-space: nowrap;
+        text-overflow: clip;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16.72px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #696871;
+}
+.Rectangle {
+  width: 485px;
+  height: 64px;
+  position: absolute;
+  top: 496px;
+  left: 250px;
+  border-radius: 9px;
+  border: solid 0.9px #eae9f2;
+  background-color: white;
+}
+.email-84 img{
+  width: 18px;
+  height: 15px;
+  position: absolute;
+  top: 522px;
+  left: 268px;
+  object-fit: contain;
+}
+.Email-address {
+  width: 95px;
+  height: 20px;
+  position: absolute;
+  top: 520px;
+  left:305px;
+  white-space: nowrap;
+        text-overflow: clip;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16.2px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.51px;
+  color: #696871;
+}
+.BG {
+  width: 180px;
+  height: 54px;
+  position: absolute;
+  top: 500px;
+  left: 549px;
+  border-radius: 4.5px;
+  border: solid 0.9px #c31a12;
+  background-color: #f04037;
+}
+.Get-Started {
+  width: 95px;
+  height: 24px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 518px;
+  left: 590px;
+  white-space: nowrap;
+        text-overflow: clip;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: white;
+}
+.Oval {
+  width: 171px;
+  height: 171px;
+  position: absolute;
+  top: 70px;
+  left: 709px;
+  object-fit: contain;
+  box-shadow:rgba(65, 62, 101, 0.3);
+}
+.Oval-Copy {
+  width: 189px;
+  height: 189px;
+  position: absolute;
+  top: 420px;
+  left: 1198px;
+  border-radius: 120px;
+  box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+  background-color: #5454d4;
+}
+.Up-Arrow {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  top: 445px;
+  left: 1272px;
+  border-radius: 30px;
+  background-color: #7070f4;
+}
+.Path img{
+  width: 20px;
+  height: 25px;
+  position: absolute;
+  top:453px;
+  left:1283px;
+  object-fit: contain;
+}
+.number{
+  width: 118px;
+  height: 81px;
+  position: absolute;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  top: 491px;
+  left: 1235px;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: -1.97px;
+  text-align: center;
+  color:white;
+}
+.Conversion {
+  width: 150px;
+  height: 24px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 550px;
+  left: 1218px;
+  font-size: 16.9px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: white;
+}

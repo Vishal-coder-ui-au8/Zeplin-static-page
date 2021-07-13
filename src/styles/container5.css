@@ -1,0 +1,327 @@
+.container5 {
+    width: 100%;
+    height: 756px;
+    position: absolute;
+    top:4165px;
+    left:0px;    
+    background-color: #413e65;
+}
+.img5 img{
+  width: 342px;
+  height: 510px;
+  position: absolute;
+  top:4292px;
+  left:221px;
+  object-fit: contain;
+}
+.Oval-Container5 img{
+  position: absolute;
+  top: 4390px;
+  left:402px;
+  object-fit: contain;
+}
+.Get-started-now {
+  width: 473px;
+  height: 63px;
+  position: absolute;
+  top:4330px;
+  left:717px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color:white;
+}
+.Create-custom-landin-container5 {
+  width: 464px;
+  height: 105px;
+  position: absolute;
+  top: 4420px;
+  left: 720px;
+  white-space: nowrap;
+        text-overflow: clip;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color:rgba(255, 255, 255, 0.7);
+}
+.Rectangle-container5 {
+  width: 454px;
+  height: 63px;
+  position: absolute;
+  top: 4550px;
+  left: 720px;
+  border-radius: 9px;
+  border: solid 0.9px #eae9f2;
+  background-color: white;
+}
+.email-container5 img{
+  width: 22px;
+  height: 510px;
+  position: absolute;
+  top: 4328px;
+  left: 738px;
+  object-fit: contain;
+}
+.Email-address-container5 {
+  width: 95px;
+  height: 20px;
+  position: absolute;
+  top: 4573px;
+  left: 880px;
+  white-space: nowrap;
+        text-overflow: clip;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16.2px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.51px;
+  color: #696871;
+}
+.get-started-container5 {
+  width: 455px;
+  height: 54px;
+  position: absolute;
+  top: 4635px;
+  left: 720px;
+  border-radius: 9px;
+  border: solid 0.9px #c31a12;
+  background-color: #f04037;
+}
+.Get-Started-write {
+  width: 181px;
+  height: 24px;
+  position: absolute;
+  top: 4650px;
+  left: 845px;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color:white;
+}
+.Omega-li {
+  width: 71px;
+  height: 28px;
+  position: absolute;
+  top:5032px;
+  left:225.6px; 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 21.6px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+}
+.With-lots-of-unique-pi {
+  width: 179px;
+  height: 76px;
+  position: absolute;
+  top: 5075px;
+  left: 225.6px;
+  bottom: 200px;
+  white-space: nowrap;
+        text-overflow: clip;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: -0.45px;
+  color: #696871;
+}
+.footer{
+  width: 100%;
+  height: 369px;
+  top:4921px;
+  left: 0px;
+  position: absolute;
+  background-color: white;
+}
+.Oval-fk {
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  top:5162px;
+  left:225px;
+  border-radius: 27px;
+  background-color: #696871;
+}
+.twitter2x {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 5169px;
+  left:230px;
+  object-fit: contain; 
+}
+.Oval-twi {
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  top: 5162px;
+  left:258px;
+  border-radius: 27px;
+  background-color: #696871;
+}
+.fb2x {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top:5168px;
+  left: 266.6px;
+  object-fit: contain;
+}
+.Oval-sis {
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  top:5162px;
+  left:293px;
+  border-radius: 27px;;
+  background-color: #696871;
+}
+.sis2x {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top:5168px;
+  left: 299px;
+  object-fit: contain;
+}
+.About-hr {
+  width: 179px;
+  height: 18px;
+  position: absolute;
+  top:5040px;
+  left:476.6px;
+  font-family:  Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  color: #19191b;
+}
+.Our-mission-Our-stor {
+  width: 179px;
+  height: 103px;
+  position: absolute;
+  top:5072px;
+  left: 476.6px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.38;
+  letter-spacing: -0.45px;
+  color: #19191b;
+}
+.Learn-ra {
+  width: 179px;
+  height: 18px;
+  position: absolute;
+  top:5040px;
+  left:647.6px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  color: #19191b;
+}
+.Tutorials-How-it-wor {
+  width: 179px;
+  height: 103px;
+  position: absolute;
+  top:5072px;
+  left:647.6px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.38;
+  letter-spacing: -0.45px;
+  color: #19191b;
+}
+.Stories-tell {
+  width: 179px;
+  height: 18px;
+  position: absolute;
+  top:5040px;
+  left:818.6px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  color: #19191b;
+}
+.Blog-Tech-stories {
+  width: 179px;
+  height: 68px;
+  position: absolute;
+  top:5072px;
+  left:818.6px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.38;
+  letter-spacing: -0.45px;
+  color: #19191b;
+}
+.Contact-us {
+  width: 179px;
+  height: 18px;
+  position: absolute;
+  top:5040px;
+  left:989.6px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  color: #19191b;
+}
+.supportuxthemenet {
+  width: 179px;
+  height: 68px;
+  position: absolute;
+  top:5072px;
+  left:989.6px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.38;
+  letter-spacing: -0.45px;
+  color: #5454d4;
+}
